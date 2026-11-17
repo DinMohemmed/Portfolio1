@@ -64,38 +64,6 @@ Lec_14/
 
 ---
 
-## ✏️ How to Personalise Further
-
-### Update Bio
-In `index.html`, find the About section `<p>` tags and rewrite them.
-
-### Add a New Project
-Copy a project card block and update:
-```html
-<div class="project-card card-accent-green">
-  <h3 class="project-title">Your New Project</h3>
-  <p class="project-desc">What does it do?</p>
-  <div class="project-tech">
-    <span class="tech-badge">Tech 1</span>
-  </div>
-  <a href="https://github.com/DinMohemmed/REPO-NAME" target="_blank" class="project-cta">
-    View on GitHub →
-  </a>
-</div>
-```
-
-### Add Email Contact
-Replace the location contact card in the Contact section with:
-```html
-<a href="mailto:your@email.com" class="contact-card contact-email">
-  <span class="contact-icon">📧</span>
-  <span class="contact-label">Email</span>
-  <span class="contact-value">your@email.com</span>
-</a>
-```
-
----
-
 ## 🚀 How to Open
 
 ```bash
